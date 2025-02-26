@@ -1,4 +1,3 @@
-# Pickles.JP.io
 //this is works to Windows and UNITY //WindowsとUNITYに機能します(※Windows APIによって透過処理している為)mac等の場合は他手段をお願いします:⁠(
 
 **//このコードはC#どころか何も書いたことがない初心者がAIを使ってコードの意味を読み解きながら作った物です**
