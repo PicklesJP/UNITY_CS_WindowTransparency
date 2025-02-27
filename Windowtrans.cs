@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 using System.Runtime.InteropServices;
-public class Windowtrans : MonoBehaviour
+public class WindowTransparency : MonoBehaviour
 {
     [DllImport("User32.dll")] static extern IntPtr GetActiveWindow(); //Windows APIのインポート
     [DllImport("User32.dll")] static extern int SetWindowLong(IntPtr hWnd, int nIndex, int dwNewLong);
